@@ -15,6 +15,6 @@
     "express-handlebars": "^3.0.0",
     "nodemon": "^1.12.1",
     "pg": "^7.3.0",
-    "sequelize": "^4.11.0"
+    "sequelize": "^4.11.1"
   }
 }
